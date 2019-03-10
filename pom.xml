@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.testhumans</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.5-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <description>Demo project for Spring Boot</description>
 
